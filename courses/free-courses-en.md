@@ -79,6 +79,7 @@
 * [PHP](#php)
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)
+* [Prompt Engineering](#prompt-engineering)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
@@ -1159,6 +1160,11 @@
 
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
 
+
+### Prompt Engineering
+
+* [Prompt Engineering with Chat GPT](https://medium.com/@lochux/list/prompt-engineering-with-chat-gpt-4ac831f1df31) - Loch Pabasara
+    
 
 ### Python
 
